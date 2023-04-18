@@ -1,32 +1,42 @@
+# 🏆 Sorteador de Insígnias Pixelmon
 
-# Sorteador pixelmon
+Este projeto é um sorteio de insígnias para jogadores de Pixelmon participarem de torneios online. Ele permite a seleção aleatória de cada geração e insígnia para cada jogador.
 
-Drawer created for the definition of each generation and insignia of each player for online tournament.
-
-
-## Autor
+## 📝 Autor
 
 - [@devgustavor](https://github.com/devGustavoR)
 
+## 🚀 Executando localmente
 
-
-## For local run
-
-Clone the project
+Para executar o projeto localmente, siga as etapas abaixo:
 
 ```bash
-  git clone https://link-para-o-projeto
+# Clone o repositório para a sua máquina:
+git clone https://link-para-o-projeto
+
+# Acesse o diretório do projeto:
+cd my-project
+
+# Inicie o programa:
+my-project.py
+
 ```
 
-Entre no diretório do projeto
+## 🤝 Como Contribuir
 
-```bash
-  cd my-project
-```
+Se você quiser contribuir para este projeto, por favor, siga as orientações abaixo:
 
-Inicie o programa
+1. Faça o fork do projeto
+2. Crie um branch com a sua feature: `git checkout -b feature/nova-feature`
+3. Faça commit das suas alterações: `git commit -m 'Adicionando nova feature'`
+4. Faça o push do branch para o seu fork: `git push origin feature/nova-feature`
+5. Abra um pull request para a branch `main` do projeto original
 
-```bash
-  my-project.py
-```
+## 📝 Licença
 
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🙏 Agradecimentos
+
+- [Pixelmon](https://pixelmonmod.com/) por fornecer o jogo que inspirou este projeto.
+- [GitHub](https://github.com/) por fornecer uma plataforma excelente para compartilhar códigos e colaborar com outros desenvolvedores.
